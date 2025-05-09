@@ -1,16 +1,21 @@
 # portfolio_5601022
 
-A new Flutter project.
+Dieses Projekt ist eine Flutter-App für mein persönliches Portfolio-Projekt, welche ich für die erste Aufgabe im EGB erstellt habe.Es präsentiert eine simple Startseite.die meinen Namen und meine Martrikelnummer anzeigt.
+
+## Flutter-Version
+
+Flutter 3.29.3
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Stelle sicher, dass Flutter auf deinem System installiert ist.
 
-A few resources to get you started if this is your first Flutter project:
+   Falls Flutter noch nicht installiert ist, folge bitte der offiziellen Anleitung:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+   https://docs.flutter.dev/get-started/install
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. Klonen des GitHub-Repositories:
+
+   Lade dir eine lokale Kopie des Projekts auf deinen Computer herunter:
+   ```bash
+   git clone https://github.com/mhidocasaoui/portfolio_5601022.git
